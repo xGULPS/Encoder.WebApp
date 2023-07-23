@@ -1,0 +1,4 @@
+C:\Users\SESA478749\source\repos\Encoder.WebApp\obj\Debug\encoder.webapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\SESA478749\source\repos\Encoder.WebApp\obj\Debug\encoder.webapp.esproj.CoreCompileInputs.cache
+C:\GIT\Base64Encoder\Encoder.WebApp\obj\Debug\encoder.webapp.esproj.SuggestedBindingRedirects.cache
+C:\GIT\Base64Encoder\Encoder.WebApp\obj\Debug\encoder.webapp.esproj.CoreCompileInputs.cache
